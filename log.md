@@ -1,5 +1,48 @@
 # 100 Days Of Code - Log
 
+### Day 0: November 21, 2018 Wednesday
+
+**Today's Progress**: Watched videos "Welcome to the course"
+
+**Thoughts:** In my opinion I think this course gives the right amount of contents to finish each day. 
+
+
+### Day 1: November 22, 2018 Thursday
+
+**Today's Progress**: I've gone through videos on the datetime module. How to import datetime, date, and timedelta. how to assign date and time delta. How to use math operation between datetime and timedelta.
+
+**Thoughts** I've recently started coding, and it's a great feeling when I finally type the codes and get the results.
+
+**Sample codes**
+>>> from datetime import datetime
+>>> from datetime import date
+>>> from datetime import timedelta
+>>> todaydate = date.today()
+>>> sleephour = timedelta(hours=6)
+>>> todaydate + sleephour
+datetime.date(2018, 11, 22)
+>>> todaytime = datetime.today()
+>>> todaytime + sleephour
+datetime.datetime(2018, 11, 23, 4, 46, 18, 650656)
+>>> str(todaytime + sleephour)
+'2018-11-23 04:46:18.650656'
+>>> christmas = date(2018,12,25)
+>>> christmas
+datetime.date(2018, 12, 25)
+>>> str(christmas)
+'2018-12-25'
+>>> todaydate - christmas
+datetime.timedelta(-33)
+>>> christmas - todaydate
+datetime.timedelta(33)
+>>> (christmas - todaydate).days
+33
+>>> str((christmas - todaydate).days)
+'33'
+**Link(s) to work**
+None
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
