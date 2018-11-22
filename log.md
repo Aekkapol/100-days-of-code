@@ -14,9 +14,9 @@
 **Thoughts** I've recently started coding, and it's a great feeling when I finally type the codes and get the results.
 
 **Sample codes**
-from datetime import datetime
-from datetime import date
-from datetime import timedelta
+>>>from datetime import datetime
+>>>from datetime import date
+>>>from datetime import timedelta
 >>> todaydate = date.today()
 >>> sleephour = timedelta(hours=6)
 >>> todaydate + sleephour
