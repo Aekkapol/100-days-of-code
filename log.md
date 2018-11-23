@@ -47,10 +47,14 @@ None
 
 **Today's Progress**: I practiced datetime module even more. I tried using the regular expression to extract the number from the texts.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally type the codes and get the results.
+**Thoughts** Spent 5 hours to finish this bite. Too long I guess, but really a good start. When I looked at the solution code, it is written so great.
 
 **Link(s) to work**
-None
+https://github.com/Aekkapol/AJ-100days-of-python-code/blob/master/D2%20Bite%207.%20Parsing%20dates%20from%20logs
+
+
+
+
 
 
 ### Day 0: February 30, 2016 (Example 1)
