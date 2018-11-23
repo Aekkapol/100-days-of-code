@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+ent# 100 Days Of Code - Log
 
 ### Day 0: November 21, 2018 Wednesday
 
@@ -45,53 +45,10 @@ None
 
 ### Day 2: November 23, 2018 Friday
 
-**Today's Progress**: I've gone through videos on the datetime module. How to import datetime, date, and timedelta. how to assign date and time delta. How to use math operation between datetime and timedelta.
+**Today's Progress**: I practiced datetime module even more. I tried using the regular expression to extract the number from the texts.
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally type the codes and get the results.
-Use parameter expansion:
 
-newdate = datetime.datetime(*values)
-The *expression syntax in a call takes the output of expression as a sequence and applies each element as a separate argument.
-
-This'll work for any sequence with a length between 3 and 8 elements, provided the first 7 are all integers and the 8th, if present, is a datetime.tzinfo subclass.
-
-Combined with mapping to int:
-
-values = ['2014', '08', '17', '18', '01', '05']
-newdate = datetime.datetime(*map(int, values))
-Demo:
-
->>> import datetime
->>> values = ['2014', '08', '17', '18', '01', '05']
->>> datetime.datetime(*map(int, values))
-datetime.datetime(2014, 8, 17, 18, 1, 5)
-
-**Sample codes**
->>>from datetime import datetime
->>>from datetime import date
->>>from datetime import timedelta
->>> todaydate = date.today()
->>> sleephour = timedelta(hours=6)
->>> todaydate + sleephour
-datetime.date(2018, 11, 22)
->>> todaytime = datetime.today()
->>> todaytime + sleephour
-datetime.datetime(2018, 11, 23, 4, 46, 18, 650656)
->>> str(todaytime + sleephour)
-'2018-11-23 04:46:18.650656'
->>> christmas = date(2018,12,25)
->>> christmas
-datetime.date(2018, 12, 25)
->>> str(christmas)
-'2018-12-25'
->>> todaydate - christmas
-datetime.timedelta(-33)
->>> christmas - todaydate
-datetime.timedelta(33)
->>> (christmas - todaydate).days
-33
->>> str((christmas - todaydate).days)
-'33'
 **Link(s) to work**
 None
 
