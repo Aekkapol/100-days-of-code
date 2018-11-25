@@ -14,31 +14,7 @@ ent# 100 Days Of Code - Log
 **Thoughts** I've recently started coding, and it's a great feeling when I finally type the codes and get the results.
 
 **Sample codes**
->>>from datetime import datetime
->>>from datetime import date
->>>from datetime import timedelta
->>> todaydate = date.today()
->>> sleephour = timedelta(hours=6)
->>> todaydate + sleephour
-datetime.date(2018, 11, 22)
->>> todaytime = datetime.today()
->>> todaytime + sleephour
-datetime.datetime(2018, 11, 23, 4, 46, 18, 650656)
->>> str(todaytime + sleephour)
-'2018-11-23 04:46:18.650656'
->>> christmas = date(2018,12,25)
->>> christmas
-datetime.date(2018, 12, 25)
->>> str(christmas)
-'2018-12-25'
->>> todaydate - christmas
-datetime.timedelta(-33)
->>> christmas - todaydate
-datetime.timedelta(33)
->>> (christmas - todaydate).days
-33
->>> str((christmas - todaydate).days)
-'33'
+See in AJ_100_days_of_code
 **Link(s) to work**
 None
 
