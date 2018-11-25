@@ -53,6 +53,14 @@ None
 https://github.com/Aekkapol/AJ-100days-of-python-code/blob/master/D2%20Bite%207.%20Parsing%20dates%20from%20logs
 
 
+### Day 3: November 24, 2018 Saturday
+
+**Today's Progress**: I created a very simplest Pomodoro timer using datetime, timedelta, while loop to stop the time when it turns True.
+
+**Thoughts** This make-from-scratch lesson is very difficult to me. I almost gave up and thought that I should take basic Python and come back later. Anyway, here I am.
+
+**Link(s) to work**
+https://github.com/Aekkapol/challenges/blob/280c7ca4443e1b171131d4f45b6a0d5b156140f1/52/Aekkapol/pomodoro.py
 
 
 
