@@ -39,11 +39,31 @@ https://github.com/Aekkapol/AJ-100days-of-python-code/blob/master/D2%20Bite%207.
 **Link(s) to work**
 https://github.com/Aekkapol/challenges/blob/280c7ca4443e1b171131d4f45b6a0d5b156140f1/52/Aekkapol/pomodoro.py
 
+### Day 4: November 25, 2018 Sunday
+
+**Today's Progress**: I watched videos on Collection module. How to use namedtuple, defaultdict, Counter.
+
+**Thoughts** Not much idea how to apply these.
+
+### Day 5: November 26, 2018 Monday
+
+**Today's Progress**: I practiced using namedtuple, defaultdict, Counter on the movie data.
+
+**Thoughts** It is a bit rough at the beginning.
 
 
+### Day 6: November 27, 2018 Tuesday
+
+**Today's Progress**: I finished analysing the movie dataset. I could get the table format right as required, using namedtuple, defaultdict, Counter, and f-string on the movie data. But I do not know how to sort the score in default dict.
+
+**Thoughts** I gotta find the way to sort the specific element in values of default dict.
 
 
+### Day 7: November 28, 2018 Wednesday
 
+**Today's Progress**: 
+
+**Thoughts** 
 
 
 ###############################################################
