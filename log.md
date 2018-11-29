@@ -54,16 +54,22 @@ https://github.com/Aekkapol/challenges/blob/280c7ca4443e1b171131d4f45b6a0d5b1561
 
 ### Day 6: November 27, 2018 Tuesday
 
-**Today's Progress**: I finished analysing the movie dataset. I could get the table format right as required, using namedtuple, defaultdict, Counter, and f-string on the movie data. But I do not know how to sort the score in default dict.
+**Today's Progress**: I finished analysing the movie dataset. I could get the table format right as required, using namedtuple, defaultdict, Counter, and f-string on the movie data. But I do not know how to sort the score in values of default dict.  And I was supposed to apply Collection on my own data. But the lesson from Day 6 had already taken the whole two days. So no progress today. But I learned a lot from these 3 days.
 
 **Thoughts** I gotta find the way to sort the specific element in values of default dict.
 
 
 ### Day 7: November 28, 2018 Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: Watched the videos on lists, dictionary, tuple
 
-**Thoughts** 
+**Thoughts** Keep learning. Don't give up AJ.
+
+### Day 8: November 29, 2018 Thursday
+
+**Today's Progress**: Cracked Bite 21. Query a nested data structure. https://codechalleng.es/bites/21/
+
+**Thoughts** So amazed looking at the solution. They are so short and beautiful.
 
 
 ###############################################################
