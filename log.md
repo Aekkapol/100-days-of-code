@@ -71,6 +71,12 @@ https://github.com/Aekkapol/challenges/blob/280c7ca4443e1b171131d4f45b6a0d5b1561
 
 **Thoughts** So amazed looking at the solution. They are so short and beautiful.
 
+### Day 9: November 30, 2018 Friday
+
+**Today's Progress**: Cracked Bite 89. Playing with lists and dicts. https://codechalleng.es/bites/89/
+
+**Thoughts** Even though, this exercise is just playing around with us states list and dictm I think I learned quite a lot for example I learned how to return a list of every nth item in a larger list (the modulo % work the same way as well), how to use '+' to concatenate the lists, how to use dict.get(key) to get value from the dictionary, how to use max(iterable, key=function), how to extract the last n element from the list [-10:] and sort them sorted().
+
 
 ###############################################################
 ### Day 0: February 30, 2016 (Example 1)
