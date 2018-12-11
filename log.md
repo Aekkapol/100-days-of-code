@@ -95,14 +95,18 @@ https://github.com/Aekkapol/challenges/blob/280c7ca4443e1b171131d4f45b6a0d5b1561
 
 **Thoughts** Will come back to these three days (day 10-12).
 
-### Day 13: December 4, 2018 Tuesday
+### <NOT FINISHED> Day 13: December 4, 2018 Tuesday
 
 **Today's Progress**:  I learned videos on Text-based games (and classes) / D1 (lectures)  
 
 **Thoughts** Classes is the first priority I should get my hands on.
 
+### <NOT FINISHED> Day 14: December 5, 2018 Wednesday
 
- I worked on Text-based games (and classes) / D1 (lectures) 
+**Today's Progress**:  I worked on Text-based games (and classes) / D2 (practice)  
+
+**Thoughts** Classes is the first priority I should get my hands on.
+
 
 
 
