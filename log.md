@@ -77,37 +77,37 @@ https://github.com/Aekkapol/challenges/blob/280c7ca4443e1b171131d4f45b6a0d5b1561
 
 **Thoughts** Even though, this exercise is just playing around with us states list and dictm I think I learned quite a lot for example I learned how to return a list of every nth item in a larger list (the modulo % work the same way as well), how to use '+' to concatenate the lists, how to use dict.get(key) to get value from the dictionary, how to use max(iterable, key=function), how to extract the last n element from the list [-10:] and sort them sorted().
 
-### <NOT FINISHED> Day 10: December 1, 2018 Saturday
+### NOT FINISHED Day 10: December 1, 2018 Saturday
 
 **Today's Progress**: I learned from videos on Testing your code with pytest / D1 (lectures) 
 
 **Thoughts** Now it is getting real difficult. I think I need to skip these three days and come back later (day 10-12).
 
-### <NOT FINISHED> Day 11: December 2, 2018 Sunday
+### NOT FINISHED Day 11: December 2, 2018 Sunday
 
 **Today's Progress**:  
 
 **Thoughts** Will come back to these three days (day 10-12).
 
-### <NOT FINISHED> Day 12: December 3, 2018 Monday
+### NOT FINISHED Day 12: December 3, 2018 Monday
 
 **Today's Progress**:  
 
 **Thoughts** Will come back to these three days (day 10-12).
 
-### <NOT FINISHED> Day 13: December 4, 2018 Tuesday (PAPER - SCISSOR - HAMMER)
+### NOT FINISHED Day 13: December 4, 2018 Tuesday (PAPER - SCISSOR - HAMMER)
 
 **Today's Progress**:  I learned videos on Text-based games (and classes) / D1 (lectures)  
 
 **Thoughts** Classes is the first priority I should get my hands on.
 
-### <NOT FINISHED> Day 14: December 5, 2018 Wednesday (PAPER - SCISSOR - HAMMER)
+### NOT FINISHED Day 14: December 5, 2018 Wednesday (PAPER - SCISSOR - HAMMER)
 
 **Today's Progress**:  I worked on Text-based games (and classes) / D2 (practice)  
 
 **Thoughts** Classes is the first priority I should get my hands on.
 
-### <NOT FINISHED> Day 15: December 6, 2018 Thursday (PAPER - SCISSOR - HAMMER)
+### NOT FINISHED Day 15: December 6, 2018 Thursday (PAPER - SCISSOR - HAMMER)
 
 **Today's Progress**:   I worked on Text-based games (and classes) / D3 (more coding)  
 
