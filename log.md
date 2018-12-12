@@ -112,7 +112,12 @@ https://github.com/Aekkapol/challenges/blob/280c7ca4443e1b171131d4f45b6a0d5b1561
 **Today's Progress**:   I worked on Text-based games (and classes) / D3 (more coding)  
 
 **Thoughts** Classes is the first priority I should get my hands on.
- I worked on Text-based games (and classes) / D3 (more coding) 
+ 
+### Day 16: December 7, 2018 Friday
+
+**Today's Progress**:    I studied List comprehensions and generators / D1 (lectures)  
+
+**Thoughts** Still I do not fully understand how to create generators. Need more practice! 
 
 ###############################################################
 ### Day 0: February 30, 2016 (Example 1)
