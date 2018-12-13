@@ -109,15 +109,25 @@ https://github.com/Aekkapol/challenges/blob/280c7ca4443e1b171131d4f45b6a0d5b1561
 
 ### NOT FINISHED Day 15: December 6, 2018 Thursday (PAPER - SCISSOR - HAMMER)
 
-**Today's Progress**:   I worked on Text-based games (and classes) / D3 (more coding)  
+**Today's Progress**: I worked on Text-based games (and classes) / D3 (more coding)  
 
 **Thoughts** Classes is the first priority I should get my hands on.
  
 ### Day 16: December 7, 2018 Friday
 
-**Today's Progress**:    I studied List comprehensions and generators / D1 (lectures)  
+**Today's Progress**: I studied List comprehensions and generators / D1 (lectures)  
 
-**Thoughts** Still I do not fully understand how to create generators. Need more practice! 
+**Thoughts** Still I do not fully understand how to create generators. Need more practice!
+
+
+### Day 17: December 8, 2018 Saturday
+
+**Today's Progress**: I worked on List comprehensions and generators / D2 (practice). I learned min(list, key=len), list.sort(reverse = True), string.title(), how to swap first name and last name using front, back = name.split(), min(strings, key=len), random.sample(list, 2)   
+
+**Thoughts** Still I do not fully understand how to create generators. Need more practice!
+
+
+I learned min(list, key=len), list.sort(reverse = True), string.title(), how to swap first name and last name using front, back = name.split()
 
 ###############################################################
 ### Day 0: February 30, 2016 (Example 1)
