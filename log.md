@@ -126,9 +126,6 @@ https://github.com/Aekkapol/challenges/blob/280c7ca4443e1b171131d4f45b6a0d5b1561
 
 **Thoughts** Still I do not fully understand how to create generators. Need more practice!
 
-
-I learned min(list, key=len), list.sort(reverse = True), string.title(), how to swap first name and last name using front, back = name.split()
-
 ###############################################################
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
