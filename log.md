@@ -124,7 +124,14 @@ https://github.com/Aekkapol/challenges/blob/280c7ca4443e1b171131d4f45b6a0d5b1561
 
 **Today's Progress**: I worked on List comprehensions and generators / D2 (practice). I learned min(list, key=len), list.sort(reverse = True), string.title(), how to swap first name and last name using front, back = name.split(), min(strings, key=len), random.sample(list, 2)   
 
-**Thoughts** To practice more Bite 26. Dictionary comprehensions are awesome https://codechalleng.es/bites/26/
+**Thoughts** List and dicts comprehension are awesome.
+
+### Day 18: December 9, 2018 Sunday
+
+**Today's Progress**: I cracked Bite 26. Dictionary comprehensions are awesome https://codechalleng.es/bites/26/   
+
+**Thoughts** Feeling victory after applying knowledge of list comprehension to dict comprehension. Thing to be careful when refer variable inside function, need to really use function parameter.
+
 
 ###############################################################
 ### Day 0: February 30, 2016 (Example 1)
