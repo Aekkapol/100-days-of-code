@@ -1,4 +1,4 @@
-ent# 100 Days Of Code - Log
+# 100 Days Of Code - Log
 
 ### Day 0: November 21, 2018 Wednesday
 
