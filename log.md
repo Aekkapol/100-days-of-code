@@ -122,7 +122,7 @@ https://github.com/Aekkapol/challenges/blob/280c7ca4443e1b171131d4f45b6a0d5b1561
 
 ### Day 17: December 8, 2018 Saturday
 
-**Today's Progress**: I worked on List comprehensions and generators / D2 (practice). I learned min(list, key=len), list.sort(reverse = True), string.title(), how to swap first name and last name using front, back = name.split(), min(strings, key=len), random.sample(list, 2)   
+**Today's Progress**: I worked on List comprehensions and generators / D2 (practice). I cracked https://codechalleng.es/bites/5/. I learned min(list, key=len), list.sort(reverse = True), string.title(), how to swap first name and last name using front, back = name.split(), min(strings, key=len), random.sample(list, 2)   
 
 **Thoughts** List and dicts comprehension are awesome.
 
