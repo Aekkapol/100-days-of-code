@@ -126,7 +126,7 @@ https://github.com/Aekkapol/challenges/blob/280c7ca4443e1b171131d4f45b6a0d5b1561
 
 **Thoughts** List and dicts comprehension are awesome.
 
-### Day 18: December 9, 2018 Sunday
+### Day 18: December 9, 2018 Sunday TODO - https://codechalleng.es/challenges/11/
 
 **Today's Progress**: I cracked Bite 26. Dictionary comprehensions are awesome https://codechalleng.es/bites/26/   
 
